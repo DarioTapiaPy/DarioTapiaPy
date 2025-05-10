@@ -17,6 +17,9 @@ I’m a student at DuocUC Institute, pursuing a degree in Programming Analyst. I
 <img src = "https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
 
 ## 🏅 My Certificates
+<a href="https://www.credly.com/badges/25bc7034-2ea0-4904-ad0d-c2b98a6c7bd1/public_url" target="_blank">
+  <img src="https://github.com/DarioTapiaPy/DarioTapiaPy/blob/main/assets/python-essentials-1.1.png?raw=true" width="120">
+</a>
 
 <a href="https://www.credly.com/badges/2e87714b-8646-4da8-a6d3-9d2838af8a98/public_url" target="_blank">
   <img src="https://github.com/DarioTapiaPy/DarioTapiaPy/blob/main/assets/pcep-30-02-pcep-certified-entry-level-python-progra.png?raw=true" width="120">
