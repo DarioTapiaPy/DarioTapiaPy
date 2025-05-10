@@ -7,15 +7,20 @@ I’m a student at DuocUC Institute, pursuing a degree in Programming Analyst. I
 - 🌱 I’m currently learning ...
   - Python
   - Linux
-- 👯 I’m looking forward to collaborate on open source projects.
 - ✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
-- Outside tech, 📖 I love to read manga, 👾 play videogames, 🎵 listen to music, and 🌴 explore museums and ca.
+- Outside tech, 📖 I love to read manga, 👾 play videogames, and 🎵 listen to music.
  
 ### My skills include
 <img src = "https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
 
 ### IDLES
 <img src = "https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
+
+## 🏅 My Certificates
+
+<a href="https://www.credly.com/badges/2e87714b-8646-4da8-a6d3-9d2838af8a98/public_url" target="_blank">
+  <img src="https://github.com/DarioTapiaPy/DarioTapiaPy/blob/main/assets/pcep-30-02-pcep-certified-entry-level-python-progra.png?raw=true" width="120">
+</a>
 
 ### Check out my social medias
 <a href= "https://www.instagram.com/blankzzz._/" >
