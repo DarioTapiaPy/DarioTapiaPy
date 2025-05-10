@@ -1,5 +1,5 @@
 <h1 align="center"><b>Hi , I'm Dario Tapia </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
+<img align="right" width=300px alt="Unicorn" src="https://media.tenor.com/RLgI4fQWhIYAAAAj/fantome-sexyfantome.gifp" />
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp; ***About me***
 
 I’m a student at DuocUC Institute, pursuing a degree in Programming Analyst. I love learning and creating new, productive, innovative, and creative things.
@@ -7,7 +7,6 @@ I’m a student at DuocUC Institute, pursuing a degree in Programming Analyst. I
 - 🌱 I’m currently learning ...
   - Python
   - Linux
-- ✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
 - Outside tech, 📖 I love to read manga, 👾 play videogames, and 🎵 listen to music.
  
 ### My skills include
@@ -16,7 +15,7 @@ I’m a student at DuocUC Institute, pursuing a degree in Programming Analyst. I
 ### IDLES
 <img src = "https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
 
-## 🏅 My Certificates
+## My Certificates
 <a href="https://www.credly.com/badges/25bc7034-2ea0-4904-ad0d-c2b98a6c7bd1/public_url" target="_blank">
   <img src="https://github.com/DarioTapiaPy/DarioTapiaPy/blob/main/assets/python-essentials-1.1.png?raw=true" width="120">
 </a>
