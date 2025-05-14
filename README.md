@@ -22,7 +22,7 @@ class WhoAmI:
     def __init__(self):
         self.user = 'Darío Tapia'
         self.current_education = "DuocUC (Programming Analyst)"
-        self.currently_learning = ["Python", "Web Development", "Linux"]
+        self.currently_learning = ["Python", "Linux"]
         self.fun_fact = "I hate tuples..."
         self.hobbies = [
             'Music listener', 
