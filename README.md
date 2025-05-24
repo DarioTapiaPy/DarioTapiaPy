@@ -63,6 +63,8 @@ class WhoAmI:
   <img src = "https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white">
 <a href ="https://www.twitch.tv/princessmoon1">
   <img src = "https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white">
+<a href = "https://www.codewars.com/users/DarioTapiaPy">
+  <img src = "https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey">
 </a>
 
 ### My Certificates
