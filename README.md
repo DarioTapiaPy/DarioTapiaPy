@@ -65,6 +65,8 @@ class WhoAmI:
   <img src = "https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white">
 <a href = "https://www.codewars.com/users/DarioTapiaPy">
   <img src = "https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey">
+<a href = "https://www.linkedin.com/in/dar%C3%ADo-tapia-gonz%C3%A1lez-35a458329/">
+  <img src = "https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
 ### My Certificates
