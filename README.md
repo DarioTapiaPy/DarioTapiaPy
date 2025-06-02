@@ -23,7 +23,7 @@ class WhoAmI:
         self.user = 'Darío Tapia'
         self.current_education = "DuocUC (Programming Analyst)"
         self.currently_learning = ["Python", "Linux"]
-        self.fun_fact = "I hate tuples..."
+        self.fun_fact = "I hate avocado..."
         self.hobbies = [
             'Music listener', 
             'Souls-like games',
