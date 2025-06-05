@@ -77,3 +77,8 @@ class WhoAmI:
 <a href="https://www.credly.com/badges/2e87714b-8646-4da8-a6d3-9d2838af8a98/public_url" target="_blank">
   <img src="https://github.com/DarioTapiaPy/DarioTapiaPy/blob/main/assets/pcep-30-02-pcep-certified-entry-level-python-progra.png?raw=true" width="120">
 </a>
+
+### CODEWARS
+<a href="https://www.codewars.com/users/DarioTapiaPy">
+  <img src="https://www.codewars.com/users/DarioTapiaPy/badges/large">
+</a>
