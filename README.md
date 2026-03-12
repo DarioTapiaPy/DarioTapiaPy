@@ -55,14 +55,6 @@ class WhoAmI:
 ### Check out my social medias
 <a href= "https://www.instagram.com/blankzzz._/" >
   <img src ="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
-<a href= "https://open.spotify.com/user/21v5rgvtomrhj3qziucjyhgti">
-  <img src ="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white">
-<a href= "https://discord.gg/SBMKW8pxsv">
-  <img src ="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white">
-<a href ="https://x.com/loveofunicorns">
-  <img src = "https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white">
-<a href ="https://www.twitch.tv/princessmoon1">
-  <img src = "https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white">
 <a href = "https://www.codewars.com/users/DarioTapiaPy">
   <img src = "https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey">
 <a href = "https://www.linkedin.com/in/dar%C3%ADo-tapia-gonz%C3%A1lez-35a458329/">
