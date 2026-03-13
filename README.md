@@ -16,7 +16,7 @@ class WhoAmI:
     def __init__(self):
         self.user = 'Darío Tapia'
         self.current_education = "DuocUC (Programming Analyst)"
-        self.currently_learning = ["Python", "Linux"]
+        self.currently_learning = ["Python", "Linux", "Java", "Spring"]
         self.fun_fact = "I hate avocado..."
         self.hobbies = [
             'Music listener', 
