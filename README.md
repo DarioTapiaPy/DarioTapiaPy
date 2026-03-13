@@ -26,6 +26,7 @@ class WhoAmI:
         ]
     def get_age(self)  -> int:
         return 22
+
     def get_city(self) -> str:
         return "Valparaíso 🌊, Chile"
     
