@@ -1,10 +1,4 @@
 <h1 align="center"><b>Hi , I'm Blank </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<div align=center>
-  <h3><b>📍 Profile Visitor Count</b></h3>
-</div>
-<p align="center" >   
-  <img src="https://profile-counter.glitch.me/DarioTapiaPy/count.svg" />  
-</p>
 <p align="left">
     <img src="https://media.tenor.com/hH7RVruIvCsAAAAj/jirasol.gif" width="50">
     <img src="https://media.tenor.com/hH7RVruIvCsAAAAj/jirasol.gif" width="50">
