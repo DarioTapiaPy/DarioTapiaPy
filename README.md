@@ -24,7 +24,8 @@ class WhoAmI:
             'Manga reading',
             'Studio Ghibli Movies'
         ]
-    
+    def get_age(self)  -> int:
+        return 22
     def get_city(self) -> str:
         return "Valparaíso 🌊, Chile"
     
