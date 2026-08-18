@@ -49,8 +49,6 @@ class WhoAmI:
 <img src = "https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
 
 ### Check out my social medias
-<a href= "https://www.instagram.com/blankzzz._/" >
-  <img src ="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
 <a href = "https://www.codewars.com/users/DarioTapiaPy">
   <img src = "https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey">
 <a href = "https://www.linkedin.com/in/dar%C3%ADo-tapia-gonz%C3%A1lez-35a458329/">
