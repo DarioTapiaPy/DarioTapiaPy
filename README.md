@@ -25,7 +25,7 @@ class WhoAmI:
             'Studio Ghibli Movies'
         ]
     def get_age(self)  -> int:
-        return 22
+        return 23
 
     def get_city(self) -> str:
         return "Valparaíso 🌊, Chile"
